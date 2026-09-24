@@ -66,13 +66,13 @@ description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review,
 
 <section class="pub-section" id="in-preparation">
 <h2>Manuscripts in preparation</h2>
+
 <article class="publication">
 <div>
 <span class="badge">In preparation</span>
 </div>
 <div>
-<h3>Layered Crustal V<sub>P</sub>/V<sub>S</sub> and Partial Melt beneath the Western U.S.</h3>
-<p><strong>Wu, H.</strong>, Shen, W., Lin, F.-C.</p>
+<h3>Diffusion Models for Automated Quality Control of Receiver Functions.</h3>
 </div>
 </article>
 
@@ -81,18 +81,7 @@ description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review,
 <span class="badge">In preparation</span>
 </div>
 <div>
-<h3>Diffusion-Model Based Quality Control Method for Receiver Functions</h3>
-<p><strong>Wu, H.</strong>, Shen, W.</p>
-</div>
-</article>
-
-<article class="publication">
-<div>
-<span class="badge">In preparation</span>
-</div>
-<div>
-<h3>A Seismic Reference Model for the US continent</h3>
-<p><strong>Wu, H.</strong>, Shen, W., Lin, F.-C.</p>
+<h3>A Continental-Scale Crustal Model of the United States from Joint Inversion of Multiple Seismic Observables.</h3>
 </div>
 </article>
 </section>
