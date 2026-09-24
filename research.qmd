@@ -77,6 +77,7 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <p>Geophysical imaging requires both efficient computation and a clear understanding of model uncertainty. My computational work spans Monte Carlo and Bayesian inversion, large-scale seismic data processing, and HPC/GPU workflows.</p>
 <p>During a research internship at TGS in summer 2026, I developed and productionized Stein variational gradient descent (SVGD) workflows for uncertainty quantification in 3-D/4-D acoustic full-waveform inversion.</p>
 </div>
+<!--
 <aside class="method-box">
 <p class="eyebrow">Computational practice</p>
 <h3>Methods that connect data and models</h3>
@@ -88,6 +89,7 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <li>Python, C/C++, and Fortran</li>
 </ul>
 </aside>
+-->
 </div>
 </div>
 </section>
