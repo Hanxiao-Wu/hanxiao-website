@@ -12,6 +12,7 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <a href="#antarctica">01 / Antarctic subglacial geophysics</a>
 <a href="#continental">02 / Continental imaging</a>
 <a href="#computational">03 / Computation &amp; uncertainty</a>
+<a href="#ongoing">04 / Ongoing research</a>
 </nav>
 </div>
 </header>
@@ -89,6 +90,29 @@ To investigate this hidden component of the Antarctic hydrologic system, we depl
 </aside>
 -->
 </div>
+</div>
+</section>
+<section id="ongoing" class="research-story">
+<div class="wrap">
+<p class="number">04 / ONGOING RESEARCH</p>
+<h2>Ongoing research</h2>
+
+<article>
+<h3>Layered crustal V<sub>P</sub>/V<sub>S</sub> and possible partial melting beneath the western United States</h3>
+<p>I am extending seismic joint inversion to incorporate Rayleigh-wave local amplification and H/V ratios, with the goal of resolving depth-dependent crustal V<sub>P</sub>/V<sub>S</sub>. Using imaging results from the western United States, I am investigating whether the inferred lower-crustal properties are consistent with partial melting, while considering alternative interpretations and uncertainties.</p>
+</article>
+
+<article>
+<h3>Diffusion models for receiver-function quality control</h3>
+<p>I am exploring diffusion models for quality control of receiver functions, with the aim of developing a more consistent and scalable approach to assessing waveform quality for seismic imaging.</p>
+</article>
+
+<article>
+<h3>A seismic reference model for the US continental crust</h3>
+<p>I am also working on a seismic reference model for the U.S. continental crust with the newly developed method and new data.</p>
+</article>
+</div>
+</section>
 </div>
 </section>
 ```
