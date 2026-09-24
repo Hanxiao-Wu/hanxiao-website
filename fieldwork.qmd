@@ -7,10 +7,11 @@ description: "Hanxiao Wu's fieldwork in Antarctica and Kenya: dense nodal arrays
 <header class="page-head">
 <div class="wrap">
 <p class="eyebrow">Fieldwork</p>
-<h1>On the ice.<br>Close to the observations.</h1>
-<p class="lead">Deploying instruments, designing arrays, and collecting the observations that make subsurface imaging possible.</p>
+<h1>Fieldwork</h1>
+<p class="lead"> As seismologists, we probe deep into the Earth with seismic waves—but sometimes, we literally have to dig. </p>
 </div>
 </header>
+
 <section class="section wrap">
 <div class="gallery-lead">
 <div>
