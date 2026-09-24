@@ -26,9 +26,9 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <h2>What can geophysical observations tell us about the subsurface?</h2>
 </div>
 <div>
-<p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. Much of my doctoral research develops and applies seismic methods to investigate subsurface structure, from the continental crust to the Antarctic subglacial environment.</p>
-<p>I am interested in what seismic observations can reveal beyond seismic structure itself: how far can we go in inferring material composition, porosity, and physical state, and where do the uncertainties remain?</p>
-<p class="small">My research has a growing focus on polar environments. A future direction is to integrate seismic and radar observations to better constrain subglacial properties and conditions.</p>
+<p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. My research seeks to understand subsurface structure, composition, and physical state through geophysical observations. I am particularly interested in properties that cannot be observed directly, such as composition, porosity, and fluid conditions, and in how confidently they can be constrained from geophysical data.</p>
+<p>During my Ph.D., I have approached these questions primarily through seismology, developing and applying joint-inversion methods that combine complementary seismic observations to better constrain crustal structure and physical properties.</p>
+<p>Polar environments are becoming a central focus of my research. My current work in Antarctica investigates the physical and hydrological conditions beneath the ice using seismic observations together with complementary radar and magnetotelluric constraints.</p>
 </div>
 </section>
 <section class="section tinted">
@@ -46,8 +46,8 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <div>
 <p class="number">01 / POLAR GEOPHYSICS</p>
 <h3>Beneath the Antarctic Ice Sheet</h3>
-<p>What lies beneath kilometers of ice—and how does it shape conditions at the ice–bed interface?</p>
-<p class="quiet">Using seismic observations to investigate subglacial sediments and explore what their properties reveal about water and basal conditions.</p>
+<p>What can geophysical observations reveal about the physical and hydrological conditions beneath the ice?</p>
+<p class="quiet">Using complementary geophysical observations to investigate the properties and hydrological state of the subglacial environment.</p>
 <a class="text-link" href="research.html#antarctica">Antarctic subglacial geophysics</a>
 </div>
 </article>
