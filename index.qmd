@@ -26,47 +26,77 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <h2>What can geophysical observations tell us about the subsurface?</h2>
 </div>
 <div>
-<p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. My research seeks to understand what geophysical observations can tell us about the subsurface, from its structure to its composition, temperature, porosity, and fluid conditions.</p>
-<p>During my Ph.D., I have approached these questions primarily through seismology. I develop and apply joint-inversion methods that combine complementary seismic observations to improve constraints on crustal structure and reduce trade-offs between model parameters.</p>
+<p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. My research seeks to understand what geophysical observations can tell us about the subsurface, from its seismic structure to its composition, temperature, porosity, and fluid conditions.</p>
+<p>During my Ph.D., I have approached some of these questions primarily through seismology. I develop and apply joint-inversion methods that combine complementary seismic observations to improve constraints on crustal structure and reduce trade-offs between model parameters.</p>
 <p>My current research extends these questions to polar environments. In Antarctica, I use seismic observations together with radar and magnetotelluric constraints to investigate the elastic properties and hydrological conditions of the subglacial environment. Polar environments will be a central focus of my future research.</p>
 </div>
 </section>
+
 <section class="section tinted">
 <div class="wrap">
+
 <div class="section-top">
 <div>
-<h2>Research</h2>
+<p class="eyebrow">Research</p>
+<h2>Current research</h2>
 </div>
-<a class="text-link" href="research.html">View research</a>
+<a class="text-link" href="research.html">View all research</a>
 </div>
+
+
 <article class="feature-grid">
-<a href="research.html#antarctica" aria-label="Explore Antarctic subglacial geophysics">
-<img src="assets/photos/deployment.jpg" alt="A field team member working in the snow beside an Antarctic vehicle" loading="lazy" width="1024" height="768">
+<a href="research.html#antarctica"
+   aria-label="Explore Antarctic subglacial geophysics">
+<img src="assets/photos/deployment.jpg"
+     alt="A field team member working in the snow beside an Antarctic vehicle"
+     loading="lazy" width="1024" height="768">
 </a>
+
 <div>
-<p class="number">01 / POLAR GEOPHYSICS</p>
-<h3>Beneath the Antarctic Ice Sheet</h3>
-<p>What can geophysical observations reveal about the environment beneath the ice?</p>
-<p class="quiet">Using complementary geophysical observations to investigate the properties and hydrological state of the subglacial environment.</p>
-<a class="text-link" href="research.html#antarctica">Antarctic subglacial geophysics</a>
+<p class="number">01 / ANTARCTIC SUBGLACIAL GEOPHYSICS</p>
+<h3>A water-rich sedimentary aquifer beneath the South Pole</h3>
+
+<p>
+Dense seismic observations reveal a widespread low-velocity layer beneath the
+ice, interpreted as porous, water-bearing sediment. I combine seismic imaging
+with rock physics and complementary radar and magnetotelluric observations to
+investigate groundwater storage and hydrological conditions beneath the
+Antarctic interior.
+</p>
+<a class="text-link" href="research.html#antarctica">
+Explore Antarctic research
+</a>
 </div>
 </article>
 <div class="research-pair">
 <article>
-<p class="number">02 / CONTINENTAL IMAGING</p>
-<h3>How can complementary seismic observations improve constraints on crustal structure?</h3>
-<p>Combining complementary seismic observables to reduce parameter trade-offs and improve constraints on crustal structure.</p>
-<a class="text-link" href="research.html#continental">Seismic imaging &amp; joint inversion</a>
+<p class="number">02 / CONTINENTAL SEISMIC IMAGING</p>
+<h3>From crustal structure to composition and thermal state</h3>
+<p>I combine complementary seismic observations to better constrain crustal
+structure and reduce trade-offs among shear-wave velocity, Moho depth, and
+Vp/Vs. Current work extends these approaches across the United States to
+investigate crustal composition, thermal variations, and possible partial melt
+beneath the western U.S.</p>
+<a class="text-link" href="research.html#continental">
+Continental seismic imaging
+</a>
 </article>
 <article>
-<p class="number">03 / COMPUTATIONAL METHODS</p>
-<h3>How reliable are the models we infer from geophysical observations?</h3>
-<p>Using Bayesian inversion, uncertainty quantification, and scalable computation to assess what the data can—and cannot—resolve.</p>
-<a class="text-link" href="research.html#computational">Computational geophysics &amp; uncertainty</a>
+<p class="number">03 / INFERENCE &amp; UNCERTAINTY</p>
+<h3>How much can we trust a geophysical image?</h3>
+<p>
+I develop and apply approaches for evaluating what geophysical observations
+can reliably resolve, including Bayesian inversion, uncertainty quantification,
+and machine-learning methods for seismic data quality control.
+</p>
+<a class="text-link" href="research.html#computational">
+Inference &amp; uncertainty
+</a>
 </article>
 </div>
 </div>
 </section>
+
 <section class="section wrap">
 <div class="section-top">
 <div>
