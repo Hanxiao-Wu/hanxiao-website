@@ -35,8 +35,7 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <div class="wrap">
 <div class="section-top">
 <div>
-<p class="eyebrow">Research</p>
-<h2>Three connected directions.</h2>
+<h2>Research</h2>
 </div>
 <a class="text-link" href="research.html">View research</a>
 </div>
