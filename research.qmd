@@ -22,10 +22,9 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <div class="story-grid">
 <div>
 <h2>Beneath the Antarctic Ice Sheet</h2>
-<p class="question">What can geophysical observations tell us about sediments, water, and basal conditions beneath the ice?</p>
-<p>My current work uses dense seismic observations to investigate the structure, physical properties, and hydrological state of subglacial sediments beneath the Antarctic Ice Sheet.</p>
-<p>Independent radar and magnetotelluric observations provide context for interpreting seismic constraints on subglacial conditions.</p>
-<p>As my research increasingly turns toward polar environments, a next step is to develop approaches that integrate seismic and radar observations to better constrain subglacial properties, hydrology, and ice–bed interactions.</p>
+<p class="question">What can geophysical observations tell us about the physical and hydrological state of the subglacial environment? </p>
+<p>My current research focuses on understanding what lies beneath the Antarctic Ice Sheet and how subglacial conditions influence the ice above. I use dense seismic observations, together with complementary radar and magnetotelluric constraints, to characterize subglacial sediments, hydrology, and basal conditions.</p>
+<p>Building on this work, I aim to develop integrated seismic–radar approaches for imaging and characterizing the sub-ice environment, with the broader goal of understanding how subglacial properties and hydrological processes shape ice–bed interactions.</p>
 </div>
 <figure>
 <img src="assets/photos/deployment.jpg" alt="A field team member conducting work in the snow beside an Antarctic vehicle" width="1024" height="768">
@@ -50,7 +49,6 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <h2>More information.<br>Better constraints.</h2>
 <p class="question">How can multiple seismic observables reduce ambiguity in crustal imaging?</p>
 <p>I develop joint-inversion methods that combine complementary seismic observations to constrain crustal structure and reduce parameter trade-offs. A substantial part of my doctoral work applies these approaches to large-scale USArray datasets to investigate spatial variations across the continental United States. This work also motivates my broader interest in connecting seismic structure to the composition and physical state of subsurface materials.</p>
-<p>My 2024 study integrates H-κ stacking with Monte Carlo joint inversion of surface-wave dispersion and receiver-function waveforms. Earlier research at USTC focused on joint inversion for layered azimuthal anisotropy.</p>
 <a class="text-link" href="https://doi.org/10.1029/2023JB027952">Read the 2024 JGR paper</a>
 </div>
 <aside class="method-box">
@@ -59,9 +57,8 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <ul>
 <li>Receiver functions and H-κ stacking</li>
 <li>Surface-wave dispersion</li>
-<li>H/V analysis and Rayleigh-wave amplification</li>
-<li>Monte Carlo and Bayesian joint inversion</li>
-<li>Layered azimuthal anisotropy</li>
+<li>Rayleigh-wave H/V and amplification</li>
+<li>Monte Carlo joint inversion</li>
 </ul>
 </aside>
 </div>
