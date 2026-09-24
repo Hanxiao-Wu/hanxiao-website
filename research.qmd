@@ -7,7 +7,7 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <header class="page-head">
 <div class="wrap">
 <p class="eyebrow">Research</p>
-<h1>Imaging hidden environments.</h1>
+<h1>Reveal hidden water beneath the South Pole ice</h1>
 <p class="lead">I use seismic observations to investigate subsurface structure across continental and polar environments. A central question is how these observations can help us infer material composition, porosity, and physical state—and how confidently we can make those inferences.</p>
 <nav class="jump-links" aria-label="Research topics">
 <a href="#antarctica">01 / Antarctic subglacial geophysics</a>
