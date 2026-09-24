@@ -72,7 +72,7 @@ description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review,
 </div>
 <div>
 <h3>Layered Crustal V<sub>P</sub>/V<sub>S</sub> and Partial Melt beneath the Western U.S.</h3>
-<p><strong>Wu, H.</strong>, et al.</p>
+<p><strong>Wu, H.</strong>, Shen, W., Lin, F.-C.</p>
 </div>
 </article>
 
@@ -81,8 +81,8 @@ description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review,
 <span class="badge">In preparation</span>
 </div>
 <div>
-<h3>Diffusion-Model Quality Control Method for Receiver Functions</h3>
-<p><strong>Wu, H.</strong>, et al.</p>
+<h3>Diffusion-Model Based Quality Control Method for Receiver Functions</h3>
+<p><strong>Wu, H.</strong>, Shen, W.</p>
 </div>
 </article>
 
@@ -91,8 +91,8 @@ description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review,
 <span class="badge">In preparation</span>
 </div>
 <div>
-<h3>A Seismic Reference Model for the United States</h3>
-<p><strong>Wu, H.</strong>, et al.</p>
+<h3>A Seismic Reference Model for the US continent</h3>
+<p><strong>Wu, H.</strong>, Shen, W., Lin, F.-C.</p>
 </div>
 </article>
 </section>
@@ -119,8 +119,7 @@ description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review,
 <div class="year">2023</div>
 <div>
 <h3>A Novel Joint Inversion Method for Layered Crustal V<sub>P</sub>/V<sub>S</sub> Ratio: Incorporating Rayleigh Wave Local Amplification</h3>
-<p>
-<strong>Wu, H.</strong>, Shen, W., Lin, F.-C., and Sui, S.</p>
+<p><strong>Wu, H.</strong>, Shen, W., Lin, F.-C., and Sui, S.</p>
 <p>AGU Fall Meeting · S23F-0423</p>
 </div>
 </article>
