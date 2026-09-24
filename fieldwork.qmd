@@ -1,0 +1,63 @@
+---
+title: Fieldwork
+description: "Hanxiao Wu's fieldwork in Antarctica and Kenya: dense nodal arrays, broadband station servicing, and remote-field operations."
+---
+
+```{=html}
+<header class="page-head">
+<div class="wrap">
+<p class="eyebrow">Fieldwork</p>
+<h1>On the ice.<br>Close to the observations.</h1>
+<p class="lead">Deploying instruments, designing arrays, and collecting the observations that make subsurface imaging possible.</p>
+</div>
+</header>
+<section class="section wrap">
+<div class="gallery-lead">
+<div>
+<p class="eyebrow">South Pole, Antarctica · 2024–2026</p>
+<h2>Two austral field seasons.</h2>
+<p>As part of the Antarctica Polar Array, I worked on large-N nodal array deployment and recovery, broadband station servicing, array and profile design, and remote-field operations.</p>
+<p>I served as Field Team Lead during the 2025–2026 season.</p>
+<a class="text-link" href="research.html#antarctica">The research beneath the fieldwork</a>
+</div>
+<figure>
+<img src="assets/photos/halo.jpg" alt="A solar halo above a red tent and a person standing on the Antarctic snow" width="480" height="360">
+<figcaption>A red tent beneath a solar halo in Antarctica.</figcaption>
+</figure>
+</div>
+<div class="gallery">
+<figure>
+<img src="assets/photos/deployment.jpg" alt="A field team member working at the snow surface beside an Antarctic vehicle" loading="lazy">
+<figcaption>Field operations on the Antarctic snow surface.</figcaption>
+</figure>
+<figure>
+<img src="assets/photos/fieldwork.jpg" alt="A researcher in polar clothing working beside a field vehicle" loading="lazy">
+<figcaption>Working beside a vehicle during Antarctic field operations.</figcaption>
+</figure>
+<figure class="portrait">
+<img src="assets/photos/vault.jpg" alt="Two field team members excavating a snow pit for a broadband station vault" loading="lazy">
+<figcaption>Excavating a snow pit for broadband station work.</figcaption>
+</figure>
+<figure>
+<img src="assets/photos/tent.jpg" alt="A red tent in an expansive Antarctic snow landscape" loading="lazy">
+<figcaption>A red tent on the Antarctic snow surface.</figcaption>
+</figure>
+<figure class="wide">
+<img src="assets/photos/team.jpg" alt="The field team posing together at South Pole Camp between expedition vehicles" loading="lazy" width="640" height="359">
+<figcaption>At South Pole Camp with the field team.</figcaption>
+</figure>
+</div>
+</section>
+<section class="section tinted">
+<div class="wrap intro-grid">
+<div>
+<p class="eyebrow">Kenya · 2024</p>
+<h2>Seismic field deployment.</h2>
+</div>
+<div>
+<p>I deployed approximately 80 SmartSolo nodes and contributed to survey design and field data acquisition.</p>
+<p class="small">Across field settings, my experience connects survey design, instrumentation, and data acquisition with the questions we ask of the subsurface.</p>
+</div>
+</div>
+</section>
+```

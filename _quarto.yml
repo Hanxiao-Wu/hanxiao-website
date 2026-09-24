@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - fieldwork.qmd
+    - cv.qmd
+  resources:
+    - assets/
+    - site.js
+website:
+  title: Hanxiao Wu
+  search: false
+format:
+  html:
+    template: site-template.html
+    theme: none
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    section-divs: false
+    lang: en
+    html-math-method: plain
+    include-in-header: []
