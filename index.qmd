@@ -23,7 +23,7 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <section class="section wrap intro-grid">
 <div>
 <p class="eyebrow">Research perspective</p>
-<h2>From seismic structure<br>to physical understanding.</h2>
+<h2>What can seismic observations tell us about the subsurface?</h2>
 </div>
 <div>
 <p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. Much of my doctoral research develops and applies seismic methods to investigate subsurface structure, from the continental crust to the Antarctic subglacial environment.</p>
