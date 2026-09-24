@@ -11,7 +11,7 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <p class="eyebrow">Stony Brook University · Geophysics</p>
 <h1 id="home-title">Hanxiao Wu</h1>
 <p class="role">Seismologist</p>
-<p class="intro">Using seismic observations to explore subsurface structure and physical properties.</p>
+<p class="intro">Using geophysical observations to understand what lies beneath the surface subsurface.</p>
 <div class="button-row">
 <a class="button" href="research.html">Explore my research</a>
 <a class="text-link" href="cv.html">Curriculum vitae</a>
@@ -26,9 +26,9 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <h2>What can geophysical observations tell us about the subsurface?</h2>
 </div>
 <div>
-<p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. My research seeks to understand subsurface structure, composition, and physical state through geophysical observations. I am particularly interested in properties that cannot be observed directly, such as composition, porosity, and fluid conditions, and in how confidently they can be constrained from geophysical data.</p>
-<p>During my Ph.D., I have approached these questions primarily through seismology, developing and applying joint-inversion methods that combine complementary seismic observations to better constrain crustal structure and physical properties.</p>
-<p>Polar environments are becoming a central focus of my research. My current work in Antarctica investigates the physical and hydrological conditions beneath the ice using seismic observations together with complementary radar and magnetotelluric constraints.</p>
+<p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. My research seeks to understand what geophysical observations can tell us about the subsurface, from its structure to its composition, temperature, porosity, and fluid conditions.</p>
+<p>During my Ph.D., I have approached these questions primarily through seismology. I develop and apply joint-inversion methods that combine complementary seismic observations to improve constraints on crustal structure and reduce trade-offs between model parameters.</p>
+<p>My current research extends these questions to polar environments. In Antarctica, I use seismic observations together with radar and magnetotelluric constraints to investigate the elastic properties and hydrological conditions of the subglacial environment. Polar environments will be a central focus of my future research.</p>
 </div>
 </section>
 <section class="section tinted">
@@ -46,7 +46,7 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <div>
 <p class="number">01 / POLAR GEOPHYSICS</p>
 <h3>Beneath the Antarctic Ice Sheet</h3>
-<p>What can geophysical observations reveal about the physical and hydrological conditions beneath the ice?</p>
+<p>What can geophysical observations reveal about the environment beneath the ice?</p>
 <p class="quiet">Using complementary geophysical observations to investigate the properties and hydrological state of the subglacial environment.</p>
 <a class="text-link" href="research.html#antarctica">Antarctic subglacial geophysics</a>
 </div>
@@ -54,14 +54,14 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <div class="research-pair">
 <article>
 <p class="number">02 / CONTINENTAL IMAGING</p>
-<h3>Seeing the crust through complementary observations</h3>
-<p>Joint inversion of seismic observables to constrain crustal structure and reduce parameter trade-offs.</p>
+<h3>How can complementary seismic observations improve constraints on crustal structure?</h3>
+<p>Combining complementary seismic observables to reduce parameter trade-offs and improve constraints on crustal structure.</p>
 <a class="text-link" href="research.html#continental">Seismic imaging &amp; joint inversion</a>
 </article>
 <article>
 <p class="number">03 / COMPUTATIONAL METHODS</p>
-<h3>Understanding what our models can resolve</h3>
-<p>Bayesian inversion, scalable computation, and uncertainty quantification for geophysical imaging.</p>
+<h3>How reliable are the models we infer from geophysical observations?</h3>
+<p>Using Bayesian inversion, uncertainty quantification, and scalable computation to assess what the data can—and cannot—resolve.</p>
 <a class="text-link" href="research.html#computational">Computational geophysics &amp; uncertainty</a>
 </article>
 </div>
