@@ -7,8 +7,7 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <header class="page-head">
 <div class="wrap">
 <p class="eyebrow">Research</p>
-<h1>Reveal hidden water beneath the South Pole ice</h1>
-<p class="lead">I use seismic observations to investigate subsurface structure across continental and polar environments. A central question is how these observations can help us infer material composition, porosity, and physical state—and how confidently we can make those inferences.</p>
+<h1>Research</h1>
 <nav class="jump-links" aria-label="Research topics">
 <a href="#antarctica">01 / Antarctic subglacial geophysics</a>
 <a href="#continental">02 / Continental imaging</a>
@@ -21,10 +20,11 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <p class="number">01 / ANTARCTIC SUBGLACIAL GEOPHYSICS</p>
 <div class="story-grid">
 <div>
-<h2>Beneath the Antarctic Ice Sheet</h2>
-<p class="question">What can geophysical observations tell us about the physical and hydrological state of the subglacial environment? </p>
-<p>My current research focuses on understanding what lies beneath the Antarctic Ice Sheet and how subglacial conditions influence the ice above. I use dense seismic observations, together with complementary radar and magnetotelluric constraints, to characterize subglacial sediments, hydrology, and basal conditions.</p>
-<p>Building on this work, I aim to develop integrated seismic–radar approaches for imaging and characterizing the sub-ice environment, with the broader goal of understanding how subglacial properties and hydrological processes shape ice–bed interactions.</p>
+<h2>A water-rich sedimentary aquifer beneath the South Pole</h2>
+<p class="question">How much water is stored beneath the Antarctic interior-and where is the water stored?</p>
+<p>Subglacial water is often considered in the form of lakes, channels, and thin films at the ice–bed interface. But porous sediments may host a much larger and longer-lived groundwater reservoir. 
+To investigate this hidden component of the Antarctic hydrologic system, we deployed more than 500 seismic nodes along four transects extending up to 250 km from the South Pole.</p>
+<p>Teleseismic receiver functions reveal a coherent negative-polarity conversion beneath the ice across large portions of the array. The observed waveforms cannot be explained by a simple ice-over-crystalline-bedrock structure and instead require a laterally extensive low-velocity layer. Waveform inversion shows that this layer is highly heterogeneous, ranging from tens of meters to several kilometers thick, with near-bed shear-wave velocities substantially lower than expected for compact crystalline basement.</p>
 </div>
 <figure>
 <img src="assets/photos/deployment.jpg" alt="A field team member conducting work in the snow beside an Antarctic vehicle" width="1024" height="768">
