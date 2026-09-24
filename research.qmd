@@ -55,7 +55,7 @@ To investigate this hidden component of the Antarctic hydrologic system, we depl
 
 <figure>
 <img
-  src="assets/images/tradeoff.jpg"
+  src="assets/photos/tradeoff.jpg"
   alt="Seismic imaging results for the western United States"
   loading="lazy"
   style="width: 100%; height: auto; max-height: none; object-fit: contain;"
