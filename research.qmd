@@ -48,7 +48,10 @@ To investigate this hidden component of the Antarctic hydrologic system, we depl
 <div>
 <h2>More information.<br>Better constraints.</h2>
 <p class="question">How can multiple seismic observables reduce ambiguity in crustal imaging?</p>
-<p>I develop joint-inversion methods that combine complementary seismic observations to constrain crustal structure and reduce parameter trade-offs. A substantial part of my doctoral work applies these approaches to large-scale USArray datasets to investigate spatial variations across the continental United States. This work also motivates my broader interest in connecting seismic structure to the composition and physical state of subsurface materials.</p>
+<p>Surface waves provide strong constraints on absolute shear-wave velocity, while receiver functions are sensitive to velocity contrasts and discontinuities such as the Moho. Yet even their joint inversion can leave important trade-offs among deep-crustal shear velocity, Moho depth, and crustal Vp/Vs.</p>
+<p>In my 2024 JGR: Solid Earth study, I developed a Bayesian Monte Carlo approach that incorporates H–κ stacking into the joint inversion of surface-wave dispersion and receiver functions. By adding the arrival-time information carried by receiver-function multiples, the method substantially reduces these parameter trade-offs and allows crustal Vp/Vs to be constrained directly rather than assumed.</p>
+<p>Applied across the northwestern United States, the resulting models reveal geologically coherent variations in crustal and uppermost-mantle structure. Elevated crustal Vp/Vs along coastal Oregon may reflect mafic composition or the presence of fluids, while variations in uppermost-mantle Vs closely follow independent estimates of Moho temperature. These results illustrate how improved constraints on seismic structure can provide information about crustal composition and thermal conditions.</p>
+
 <a class="text-link" href="https://doi.org/10.1029/2023JB027952">Read the 2024 JGR paper</a>
 </div>
 <aside class="method-box">
@@ -82,8 +85,6 @@ To investigate this hidden component of the Antarctic hydrologic system, we depl
 <li>Uncertainty quantification</li>
 <li>Bayesian and Monte Carlo inversion</li>
 <li>SVGD for full-waveform inversion</li>
-<li>Scalable HPC and GPU implementation</li>
-<li>Python, C/C++, and Fortran</li>
 </ul>
 </aside>
 -->
