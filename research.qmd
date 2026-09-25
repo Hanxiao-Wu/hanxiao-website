@@ -11,7 +11,7 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <nav class="jump-links" aria-label="Research topics">
 <a href="#antarctica">01 / Antarctic subglacial geophysics</a>
 <a href="#continental">02 / Continental imaging</a>
-<a href="#computational">03 / Computation &amp; uncertainty</a>
+<a href="#computational">03 / Inference &amp; uncertainty</a>
 <a href="#ongoing">04 / Ongoing research</a>
 </nav>
 </div>
@@ -22,14 +22,14 @@ description: "Antarctic subglacial geophysics, continental seismic imaging and j
 <div class="story-grid">
 <div>
 <h2>A water-rich sedimentary aquifer beneath the South Pole</h2>
-<p class="question">How much water is stored beneath the Antarctic interior-and where is the water stored?</p>
+<p class="question">How much water is stored beneath the Antarctic interior?</p>
 <p>Subglacial water is often considered in the form of lakes, channels, and thin films at the ice–bed interface. But porous sediments may host a much larger and longer-lived groundwater reservoir. 
 To investigate this hidden component of the Antarctic hydrologic system, we deployed more than 500 seismic nodes along four transects extending up to 250 km from the South Pole.</p>
-<p>Teleseismic receiver functions reveal a coherent negative-polarity conversion beneath the ice across large portions of the array. The observed waveforms cannot be explained by a simple ice-over-crystalline-bedrock structure and instead require a laterally extensive low-velocity layer. Waveform inversion shows that this layer is highly heterogeneous, ranging from tens of meters to several kilometers thick, with near-bed shear-wave velocities substantially lower than expected for compact crystalline basement.</p>
+<p>Teleseismic receiver functions reveal a coherent negative-polarity conversion beneath the ice across large portions of the array. The observed waveforms cannot be explained by a simple ice-over-crystalline-bedrock structure and instead require a laterally extensive low-velocity layer. Waveform inversion shows that this layer is highly heterogeneous, ranging from tens of meters to several kilometers thick, with near-bed shear-wave velocities substantially lower than expected for compact crystalline basement. To interpret the low-velocity layer, I combine the seismic models with rock-physics constraints and independent radar and magnetotelluric observations. The results are consistent with porous, water-bearing sediments extending beneath much of the study region, suggesting that groundwater stored within sedimentary basins may represent an important component of the Antarctic subglacial hydrologic system.</p>
 </div>
 <figure>
 <img src="assets/photos/deployment.jpg" alt="A field team member conducting work in the snow beside an Antarctic vehicle" width="1024" height="768">
-<figcaption>Field observations underpin my work on Antarctic subglacial structure.</figcaption>
+<figcaption>Deploying seismic instruments near the South Pole.</figcaption>
 </figure>
 </div>
 <div class="method-box">
@@ -47,7 +47,7 @@ To investigate this hidden component of the Antarctic hydrologic system, we depl
 <p class="number">02 / CONTINENTAL SEISMIC IMAGING &amp; JOINT INVERSION</p>
 <div class="story-grid">
 <div>
-<h2>More information.<br>Better constraints.</h2>
+<h2>Constraining the deep crust with complementary seismic observations.</h2>
 <p class="question">How can multiple seismic observables reduce ambiguity in crustal imaging?</p>
 <p>Surface waves provide strong constraints on absolute shear-wave velocity, while receiver functions are sensitive to velocity contrasts and discontinuities such as the Moho. Yet even their joint inversion can leave important trade-offs among deep-crustal shear velocity, Moho depth, and crustal Vp/Vs.</p>
 <p>In my 2024 JGR: Solid Earth study, I developed a Bayesian Monte Carlo approach that incorporates H–κ stacking into the joint inversion of surface-wave dispersion and receiver functions. By adding the arrival-time information carried by receiver-function multiples, the method substantially reduces these parameter trade-offs and allows crustal Vp/Vs to be constrained directly rather than assumed.</p>
@@ -61,7 +61,7 @@ To investigate this hidden component of the Antarctic hydrologic system, we depl
   style="width: 100%; height: auto; max-height: none; object-fit: contain;"
 >
 <figcaption>
-Seismic imaging results for the western United States.
+Incorporating H–κ constraints reduces trade-offs among crustal Vp/Vs, Moho depth, and deep-crustal Vs.
 </figcaption>
 </figure>
 
@@ -71,9 +71,8 @@ Seismic imaging results for the western United States.
 <p class="eyebrow">Methods &amp; observations</p>
 <h3>Complementary views of the crust</h3>
 <ul>
-<li>Receiver functions and H-κ stacking</li>
-<li>Surface-wave dispersion</li>
-<li>Rayleigh-wave H/V and amplification</li>
+<li>Receiver functions H-κ stacking</li>
+<li>Surface-wave dispersion and Receiver Function</li>
 <li>Monte Carlo joint inversion</li>
 </ul>
 </aside>
@@ -82,13 +81,13 @@ Seismic imaging results for the western United States.
 </section>
 <section id="computational" class="research-story">
 <div class="wrap">
-<p class="number">03 / COMPUTATIONAL GEOPHYSICS &amp; UNCERTAINTY</p>
+<p class="number">03 / GEOPHYSICAL INFERENCE &amp; UNCERTAINTY</p>
 <div class="story-grid">
 <div>
 <h2>Beyond a single best-fitting model.</h2>
 <p class="question">Which features are well constrained—and where does uncertainty remain?</p>
-<p>Geophysical imaging requires both efficient computation and a clear understanding of model uncertainty. My computational work spans Monte Carlo and Bayesian inversion, large-scale seismic data processing, and HPC/GPU workflows.</p>
-<p>During a research internship at TGS in summer 2026, I developed and productionized Stein variational gradient descent (SVGD) workflows for uncertainty quantification in 3-D/4-D acoustic full-waveform inversion.</p>
+<p>Geophysical observations rarely determine a unique Earth model. I use Bayesian and ensemble-based approaches to examine which features are required by the data, which remain uncertain, and how those uncertainties propagate into geological interpretation.</p>
+<p>During a research internship at TGS in summer 2026, I extended this interest to full-waveform inversion, developing and productionizing Stein variational gradient descent (SVGD) workflows for uncertainty quantification in 3-D/4-D acoustic FWI, where the sampling-based methods become prohibitively expensive as model dimensionality and forward-modeling cost increase.</p>
 </div>
 <!--
 <aside class="method-box">
@@ -104,27 +103,28 @@ Seismic imaging results for the western United States.
 </div>
 </div>
 </section>
+
+
 <section id="ongoing" class="research-story">
 <div class="wrap">
 <p class="number">04 / ONGOING RESEARCH</p>
 <h2>Ongoing research</h2>
 
 <article>
-<h3>Layered crustal V<sub>P</sub>/V<sub>S</sub> and possible partial melting beneath the western United States</h3>
-<p>I am extending seismic joint inversion to incorporate Rayleigh-wave local amplification and H/V ratios, with the goal of resolving depth-dependent crustal V<sub>P</sub>/V<sub>S</sub>. Using imaging results from the western United States, I am investigating whether the inferred lower-crustal properties are consistent with partial melting, while considering alternative interpretations and uncertainties.</p>
+<h3>Layered crustal V<sub>P</sub>/V<sub>S</sub> and partial melting beneath the western United States</h3>
+<p>I am extending seismic joint inversion by incorporating Rayleigh-wave H/V ratios and local amplification to resolve depth-dependent crustal Vp/Vs. I use the resulting models to investigate whether lower-crustal anomalies beneath the western United States are consistent with partial melting, while evaluating alternative interpretations and associated uncertainties.</p>
 </article>
 
 <article>
 <h3>Diffusion models for receiver-function quality control</h3>
-<p>I am exploring diffusion models for quality control of receiver functions, with the aim of developing a more consistent and scalable approach to assessing waveform quality for seismic imaging.</p>
+<p>I am exploring diffusion models for receiver-function quality control, using learned waveform characteristics to distinguish robust structural signals from noise-related features in large seismic datasets.</p>
 </article>
 
 <article>
 <h3>A seismic reference model for the US continental crust</h3>
-<p>I am also working on a seismic reference model for the U.S. continental crust with the newly developed method and new data.</p>
+<p>I am developing a continental-scale seismic reference model using USArray observations and complementary seismic constraints, with the goal of providing a consistent representation of sedimentary, crustal, and uppermost-mantle structure across the US continent.</p>
 </article>
 </div>
 </section>
-</div>
-</section>
+
 ```
