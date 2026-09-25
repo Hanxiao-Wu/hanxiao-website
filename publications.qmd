@@ -1,117 +1,72 @@
 ---
 title: Publications
-description: "Hanxiao Wu's peer-reviewed publications, manuscripts under review, and selected conference presentations."
+description: "Publications and selected presentations by Hanxiao Wu."
 ---
 
 ```{=html}
-<header class="page-head">
-<div class="wrap pub-wrap">
-<p class="eyebrow">Publications</p>
-<h1>Publications &amp; presentations.</h1>
-<p class="lead">Seismic imaging, joint inversion, and the Antarctic subglacial environment.</p>
-<div class="button-row">
-<a class="text-link" href="https://scholar.google.com/citations?user=WC5OiOAAAAAJ&amp;hl=en">Google Scholar</a>
-<a class="text-link" href="assets/documents/CV_Hanxiao.pdf">Full CV (PDF)</a>
-</div>
-</div>
-</header>
-<div class="wrap pub-wrap">
-<section class="pub-section" id="published">
+<style>
+.publications-page { max-width: 960px; margin: 0 auto; padding: 48px 32px 64px; }
+.publications-page h1 { font-family: inherit; font-size: 2rem; font-weight: 600; letter-spacing: normal; margin: 0 0 14px; }
+.publications-page h2 { font-family: inherit; font-size: 1.2rem; font-weight: 600; letter-spacing: normal; line-height: 1.4; margin: 32px 0 16px; }
+.publications-page .profile-links { font-size: 15px; margin-bottom: 28px; }
+.publications-page .profile-links a { margin-right: 20px; }
+.publications-page .reference-list { list-style: none; padding: 0; margin: 0; }
+.publications-page .reference-list li { font-size: 16px; line-height: 1.75; margin: 0 0 20px; overflow-wrap: anywhere; }
+.publications-page .reference-links { display: block; margin-top: 3px; font-size: 14px; }
+@media (max-width: 640px) {
+  .publications-page { padding: 32px 22px 48px; }
+  .publications-page h1 { font-size: 1.8rem; }
+}
+</style>
+
+<div class="publications-page">
+<h1>Publications</h1>
+<p class="profile-links">
+<a href="https://scholar.google.com/citations?user=WC5OiOAAAAAJ&amp;hl=en">Google Scholar</a>
+<a href="assets/documents/CV_Hanxiao.pdf">CV (PDF)</a>
+</p>
+
+<section id="published">
 <h2>Peer-reviewed publications</h2>
-<article class="publication">
-<div class="year">2024</div>
-<div>
-<h3>Incorporating H-κ Stacking with Monte Carlo Joint Inversion of Multiple Seismic Observables: A Case Study for the Northwestern US</h3>
-<p><strong>Wu, H.</strong>, Sui, S., and Shen, W.</p>
-<p><em>Journal of Geophysical Research: Solid Earth</em>, 129(7), e2023JB027952.</p>
-<a class="text-link" href="https://doi.org/10.1029/2023JB027952">DOI: 10.1029/2023JB027952</a>
-</div>
-</article>
-<article class="publication">
-<div class="year">2020</div>
-<div>
-<h3>A New Crustal Shear-Velocity Model in Southwest China from Joint Seismological Inversion and Its Implications for Regional Crustal Dynamics</h3>
-<p>Yang, Y., Yao, H., <strong>Wu, H.</strong>, Zhang, P., and Wang, M.</p>
-<p><em>Geophysical Journal International</em>, 220(2), 1379–1393.</p>
-<a class="text-link" href="https://doi.org/10.1093/gji/ggz514">DOI: 10.1093/gji/ggz514</a>
-</div>
-</article>
+<ul class="reference-list">
+<li>
+<strong>Wu, H.</strong>, Sui, S., and Shen, W. (2024).
+<a href="https://doi.org/10.1029/2023JB027952">Incorporating H-κ Stacking with Monte Carlo Joint Inversion of Multiple Seismic Observables: A Case Study for the Northwestern US.</a>
+<em>Journal of Geophysical Research: Solid Earth</em>, 129(7), e2023JB027952.
+<span class="reference-links"><a href="https://doi.org/10.1029/2023JB027952">DOI</a></span>
+</li>
+<li>
+Yang, Y., Yao, H., <strong>Wu, H.</strong>, Zhang, P., and Wang, M. (2020).
+<a href="https://doi.org/10.1093/gji/ggz514">A New Crustal Shear-Velocity Model in Southwest China from Joint Seismological Inversion and Its Implications for Regional Crustal Dynamics.</a>
+<em>Geophysical Journal International</em>, 220(2), 1379–1393.
+<span class="reference-links"><a href="https://doi.org/10.1093/gji/ggz514">DOI</a></span>
+</li>
+</ul>
 </section>
 
-<section class="pub-section" id="manuscripts">
+<section id="manuscripts">
 <h2>Manuscripts under review</h2>
-<article class="publication">
-<div>
-<span class="badge">Under review</span>
-</div>
-<div>
-<h3>A Water-Rich Sedimentary Aquifer System Beneath the South Pole Controls Basal Conditions of the Antarctic Ice Sheet</h3>
-<p>
-<strong>Wu, H.</strong>, et al.</p>
-<p>Manuscript under review at <em>Science</em>.</p>
-</div>
-</article>
-<article class="publication">
-<div>
-<span class="badge">Under review</span>
-</div>
-<div>
-<h3>A Comprehensive Seismic Array in the South Pole, East Antarctica</h3>
-<p>
-<strong>Wu, H.</strong>, et al.</p>
-<p>Manuscript under review at <em>Seismological Research Letters</em>.</p>
-</div>
-</article>
+<ul class="reference-list">
+<li><strong>Wu, H.</strong>, et al. A Water-Rich Sedimentary Aquifer System Beneath the South Pole Controls Basal Conditions of the Antarctic Ice Sheet. Under review at <em>Science</em>.</li>
+<li><strong>Wu, H.</strong>, et al. A Comprehensive Seismic Array in the South Pole, East Antarctica. Under review at <em>Seismological Research Letters</em>.</li>
+</ul>
 </section>
 
-<section class="pub-section" id="in-preparation">
+<section id="in-preparation">
 <h2>Manuscripts in preparation</h2>
-
-<article class="publication">
-<div>
-<span class="badge">In preparation</span>
-</div>
-<div>
-<h3>Diffusion Models for Automated Quality Control of Receiver Functions.</h3>
-</div>
-</article>
-
-<article class="publication">
-<div>
-<span class="badge">In preparation</span>
-</div>
-<div>
-<h3>A Continental-Scale Crustal Model of the United States from Joint Inversion of Multiple Seismic Observables.</h3>
-</div>
-</article>
+<ul class="reference-list">
+<li>Diffusion Models for Automated Quality Control of Receiver Functions. <em>In preparation.</em></li>
+<li>A Continental-Scale Crustal Model of the United States from Joint Inversion of Multiple Seismic Observables. <em>In preparation.</em></li>
+</ul>
 </section>
 
-<section class="pub-section" id="presentations">
+<section id="presentations">
 <h2>Selected presentations</h2>
-<article class="publication">
-<div class="year">2025</div>
-<div>
-<h3>Revealing the Hidden Water Beneath the South Pole</h3>
-<p><strong>Wu, H.</strong></p>
-<p>Invited Talk · Geophysics Lunch Bunch, Brown University</p>
-</div>
-</article>
-<article class="publication">
-<div class="year">2025</div>
-<div>
-<h3>Revealing the Hidden Water beneath the South Pole</h3>
-<p><strong>Wu, H.</strong>, Shen, W., and Kumar, A.</p>
-<p>AGU Fall Meeting · NS31A-05</p>
-</div>
-</article>
-<article class="publication">
-<div class="year">2023</div>
-<div>
-<h3>A Novel Joint Inversion Method for Layered Crustal V<sub>P</sub>/V<sub>S</sub> Ratio: Incorporating Rayleigh Wave Local Amplification</h3>
-<p><strong>Wu, H.</strong>, Shen, W., Lin, F.-C., and Sui, S.</p>
-<p>AGU Fall Meeting · S23F-0423</p>
-</div>
-</article>
+<ul class="reference-list">
+<li><strong>Wu, H.</strong> (2025). Revealing the Hidden Water Beneath the South Pole. Invited Talk, Geophysics Lunch Bunch, Brown University.</li>
+<li><strong>Wu, H.</strong>, Shen, W., and Kumar, A. (2025). Revealing the Hidden Water beneath the South Pole. AGU Fall Meeting, NS31A-05.</li>
+<li><strong>Wu, H.</strong>, Shen, W., Lin, F.-C., and Sui, S. (2023). A Novel Joint Inversion Method for Layered Crustal V<sub>P</sub>/V<sub>S</sub> Ratio: Incorporating Rayleigh Wave Local Amplification. AGU Fall Meeting, S23F-0423.</li>
+</ul>
 </section>
 </div>
 ```
