@@ -52,7 +52,7 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 <p class="number">01 / ANTARCTIC SUBGLACIAL GEOPHYSICS</p>
 <h3>A water-rich sedimentary aquifer beneath the South Pole</h3>
 
-<p>Dense seismic observations reveal a widespread low-velocity layer beneath the
+<p>Dense seismic observations indicate a widespread low-velocity layer beneath the
 ice, interpreted as porous, water-bearing sediment. I combine seismic imaging
 with rock physics and complementary radar and magnetotelluric observations to
 investigate groundwater storage and hydrological conditions beneath the
