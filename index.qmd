@@ -27,8 +27,7 @@ description: "Hanxiao Wu — Seismologist. Exploring subsurface structure and ph
 </div>
 <div>
 <p>I am a Ph.D. candidate in Geophysics at Stony Brook University, working with Weisen Shen. My research seeks to understand what geophysical observations can tell us about the subsurface, from its seismic structure to its composition, temperature, porosity, and fluid conditions.</p>
-<p>During my Ph.D., I have approached some of these questions primarily through seismology. I develop and apply joint-inversion methods that combine complementary seismic observations to improve constraints on crustal structure and reduce trade-offs between model parameters.</p>
-<p>My current research extends these questions to polar environments. In Antarctica, I use seismic observations together with radar and magnetotelluric constraints to investigate the elastic properties and hydrological conditions of the subglacial environment. Polar environments will be a central focus of my future research.</p>
+<p>My research uses seismology and complementary geophysical observations to address these questions, with current work spanning the continental United States and the Antarctic interior. Polar environments are a central direction of my research.</p>
 </div>
 </section>
 
@@ -67,7 +66,7 @@ Explore Antarctic research
 <div class="research-pair">
 <article>
 <p class="number">02 / CONTINENTAL SEISMIC IMAGING</p>
-<h3>From crustal structure to composition and thermal state</h3>
+<h3>From seismic structure to composition and thermal state</h3>
 <p>I combine complementary seismic observations to better constrain crustal
 structure and reduce trade-offs among shear-wave velocity, Moho depth, and
 Vp/Vs. Current work extends these approaches across the United States to
